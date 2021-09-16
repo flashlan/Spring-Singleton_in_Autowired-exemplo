@@ -1,4 +1,6 @@
+# Spring-singleton-autowired-exemplo
 ### Como  o padrão Singleton é usado pelo @Autowired  do Spring Framework .
+
 
 ​	O Singleton é um padrão de Projeto (design Pattern) do tipo criacional que fornece apenas apenas um ponto de acesso para qualquer outro código, garantindo que somente um objeto desse tipo exista, basicamente ele consegue  isso criando uma instancia dentro da própria classe de forma estática.
 
