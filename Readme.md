@@ -6,7 +6,7 @@
 
 ​	O objetivo desse pequeno tutorial não é se aprofundar nas várias implementações de Singleton.
 
-​	Não usarei  Spring nesse tutorial, mas sim código puro escrito em java para prover um exemplo do que acontece, por detrás dos  panos, ou seja: de como a anotação @Autowired do Spring usa o padrão Singleton  para criar instancias estáticas dos objetos.
+​	Não usarei  Spring nesse tutorial, mas sim código puro escrito em java para prover um exemplo do que acontece, por detrás dos  panos, ou seja: Trata-se de um exemplo em java puro para fácil compreensão de como o padrão Singleton é usado internamente na anotação @Autowired do Spring Framework para prover instancias estáticas e únicas de objetos gerenciados.
 
 SingletonExemplo.java:
 
